@@ -27,11 +27,11 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'email@musefree.com',
-		'to' => 'email@musefree.com'
+		'from' => 'muse@musefree.com',
+		'to' => 'muse@musefree.com'
 	),
 	'fields' => array(
-		'custom_U574' => array(
+		'custom_U1145' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Name',
@@ -43,28 +43,28 @@ $form = array(
 		'Email' => array(
 			'order' => 2,
 			'type' => 'email',
-			'label' => 'Email',
+			'label' => 'EMAIL',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Email\' is required.',
-				'format' => 'Field \'Email\' has an invalid email.'
+				'required' => 'Field \'EMAIL\' is required.',
+				'format' => 'Field \'EMAIL\' has an invalid email.'
 			)
 		),
-		'custom_U564' => array(
+		'custom_U1151' => array(
 			'order' => 4,
 			'type' => 'string',
-			'label' => 'Message',
+			'label' => 'MESSAGE',
 			'required' => false,
 			'errors' => array(
 			)
 		),
-		'custom_U581' => array(
+		'custom_U1157' => array(
 			'order' => 3,
 			'type' => 'string',
-			'label' => 'Cell Phone',
+			'label' => 'CELL PHONE',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Cell Phone\' is required.'
+				'required' => 'Field \'CELL PHONE\' is required.'
 			)
 		)
 	)
