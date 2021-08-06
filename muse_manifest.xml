@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://nft64.github.io/GIVEAWAY" resolutions="1x" timestamp="1628270791991">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://nft64.github.io/GIVEAWAY" resolutions="1x" timestamp="1628271705180">
   <folder name="assets">
     <file name="mig.mp4" crc="116747806" seo="true" mt="1628262898000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3796303575"/>
-    <file name="index.css" crc="4175578842" ref="index"/>
+    <file name="index.css" crc="407244318" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,9 +25,6 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="heart.png" crc="117585526" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="placeholder-crop-u1499.jpg" crc="3914614805" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -109,9 +106,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="placeholdersmall-u1434-fr.jpg" crc="374433290" ref="index"/>
-    <file name="dot-u1029-fr.png" crc="290923625" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="439342472" seo="true" mt="1628270784937" redirect="true"/>
+  <file name="index.html" crc="93767622" seo="true" mt="1628271677542" redirect="true"/>
 </manifest>
