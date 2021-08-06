@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://nft64.github.io/GIVEAWAY" resolutions="1x" timestamp="1628271705180">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://nft64.github.io/GIVEAWAY" resolutions="1x" timestamp="1628271858722">
   <folder name="assets">
     <file name="mig.mp4" crc="116747806" seo="true" mt="1628262898000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3796303575"/>
-    <file name="index.css" crc="407244318" ref="index"/>
+    <file name="index.css" crc="3981327608" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,7 +18,6 @@
     <file name="jquery.watch.js" crc="460461809" ref="index"/>
     <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="3951022091" ref="index"/>
   </folder>
@@ -107,5 +106,5 @@
     </file>
     <file name="placeholdersmall-u1434-fr.jpg" crc="374433290" ref="index"/>
   </folder>
-  <file name="index.html" crc="93767622" seo="true" mt="1628271677542" redirect="true"/>
+  <file name="index.html" crc="3886026825" seo="true" mt="1628271846736" redirect="true"/>
 </manifest>
