@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="parrallax.com" resolutions="1x" timestamp="1628267993238">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GIVEAWAY.XYZ" resolutions="1x" timestamp="1628269212728">
   <folder name="css">
     <file name="site_global.css" crc="3796303575"/>
-    <file name="index.css" crc="4111221815" ref="index"/>
+    <file name="index.css" crc="259051562" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,13 +15,9 @@
     <file name="jquery.watch.js" crc="460461809" ref="index"/>
     <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
-    <file name="form_check.php" crc="154010282" ref="index"/>
-    <file name="form_throttle.php" crc="266437015" ref="index"/>
-    <file name="form_process.php" crc="512629711" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="3951022091" ref="index"/>
-    <file name="form-u1140.php" crc="287006449" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -114,5 +110,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4037839387" seo="true" mt="1418191115324" redirect="true"/>
+  <file name="index.html" crc="3961270644" seo="true" mt="1628269186030" redirect="true"/>
 </manifest>
